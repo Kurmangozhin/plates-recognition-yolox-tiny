@@ -1,0 +1,8 @@
+07-Dec-21 23:14:21 - load model weights/recognition-s.onnx
+07-Dec-21 23:14:21 - [INFO]: save out 2.jpg
+07-Dec-21 23:15:07 - load model weights/recognition-s.onnx
+07-Dec-21 23:15:07 - [INFO]: save out tiny.jpg
+07-Dec-21 23:15:16 - load model weights/recognition-s.onnx
+07-Dec-21 23:15:16 - [INFO]: save out yolox-s.jpg
+07-Dec-21 23:15:37 - load model weights/model.onnx
+07-Dec-21 23:15:37 - [INFO]: save out yolox-tiny.jpg
